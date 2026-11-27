@@ -1,1 +1,2 @@
-Developed a user-friendly web application that enables real-time room availability, booking management, payment handling, user authentication, and make bookings easily.
+Developed a hotel reservation web application with room availability search, booking management, user authentication, and reservation history.
+Technologies: React.js, Node.js, Express.js, MongoDB
